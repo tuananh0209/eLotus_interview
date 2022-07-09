@@ -1,0 +1,32 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Template api express",
+  "main": "app.js",
+  "scripts": {
+    "start": "set DEBUG=api:* &node ./api/bin/www",
+    "dev": "set DEBUG=api:* &nodemon --inspect ./api/bin/www",
+    "debug": "set DEBUG=api:* &node ./api/bin/www"
+  },
+  "author": "Huynh Tuan Anh",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "formidable": "^2.0.1",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.5",
+    "morgan": "~1.9.1",
+    "pug": "2.0.0-beta11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5"
+  }
+}
