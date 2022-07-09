@@ -10,4 +10,4 @@ how to run:
 - Intall node module: ```npm intall```
 - Start server: ```npm start```
 - Server run default in ```localhost:3000```
-- There has example env file: ```.env.bak``` and files for test in folder [test](eLotus_interview/test)
+- There has example env file: ```.env.bak``` and files for test in folder [test](/test)
