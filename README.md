@@ -74,7 +74,7 @@
   code, take some time to think about what can be asked.
 
 # Information
-Full name: Huynh Tuan Anh
-Phone: 0922855506
-Email: huynhtuananh0209@gmail.com
-Outlook: anh.huynh0209@outlook.com
+- Full name: Huynh Tuan Anh
+- Phone: 0922855506
+- Email: huynhtuananh0209@gmail.com
+- Outlook: anh.huynh0209@outlook.com
